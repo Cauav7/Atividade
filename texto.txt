@@ -2,3 +2,4 @@ Este é o conteúdo inicial do arquivo.
 Esta é a primeira alteração.
 Linha 1
 Linha 2
+Linha 3
